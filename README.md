@@ -1,7 +1,7 @@
 ## Java Basics Tutorial Series
     
 
-[![Watch the RestAssured-API-Testing DEMO](https://github.com/NoushinB/java_course/blob/master/src/main/resources/episods%20images/episod01.png?raw=true)](https://youtu.be/-3eLvkO-N78)
+<a href="https://youtu.be/-3eLvkO-N78"> <img src="https://github.com/NoushinB/java_course/blob/master/src/main/resources/episods%20images/episod01.png?raw=true" width="500" alt="Episode 1"/> </a> <hr/> <a href="https://youtu.be/-3eLvkO-N78">
+<img src="https://github.com/NoushinB/java_course/blob/master/src/main/resources/episods%20images/episod02.png?raw=true" width="500" alt="Episode 2"/> </a>
 
-[![Watch the RestAssured-API-Testing DEMO](https://github.com/NoushinB/java_course/blob/master/src/main/resources/episods%20images/episod02.png?raw=true)](https://youtu.be/-3eLvkO-N78)
 
