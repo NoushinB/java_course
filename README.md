@@ -26,22 +26,26 @@ Whether you're a **complete beginner** or just brushing up on the fundamentals, 
 ---
 
 <a href="https://youtu.be/-3eLvkO-N78">
-  <img src="https://github.com/NoushinB/java_course/blob/master/src/main/resources/episods%20images/episod01.png?raw=true" width="500" alt="Episode 1"/>
+  <img src="https://github.com/NoushinB/java_course/blob/master/src/main/resources/episods%20images/episod1.png?raw=true" width="500" alt="Episode 1"/>
 </a>
 <hr/>
 
 <a href="https://youtu.be/aTGHSAkkEqI">
-  <img src="https://github.com/NoushinB/java_course/blob/master/src/main/resources/episods%20images/episod02.png?raw=true" width="500" alt="Episode 2"/>
+  <img src="https://github.com/NoushinB/java_course/blob/master/src/main/resources/episods%20images/episod2.png?raw=true" width="500" alt="Episode 2"/>
 </a>
 <hr/>
 
 <a href="https://youtu.be/9xTrzoMvb-0">
-  <img src="https://github.com/NoushinB/java_course/blob/master/src/main/resources/episods%20images/episod03.png?raw=true" width="500" alt="Episode 3"/>
+  <img src="https://github.com/NoushinB/java_course/blob/master/src/main/resources/episods%20images/episod3.png?raw=true" width="500" alt="Episode 3"/>
 </a>
 <hr/>
 
 <a href="https://youtu.be/wGhdWNwEA-k">
-  <img src="https://github.com/NoushinB/java_course/blob/master/src/main/resources/episods%20images/episod04.png?raw=true" width="500" alt="Episode 4"/>
+  <img src="https://github.com/NoushinB/java_course/blob/master/src/main/resources/episods%20images/episod4.png?raw=true" width="500" alt="Episode 4"/>
+</a>
+<hr/>
+<a href="https://youtu.be/_ATvT3w3Kwo">
+  <img src="https://github.com/NoushinB/java_course/blob/master/src/main/resources/episods%20images/episod5.png?raw=true" width="500" alt="Episode 5"/>
 </a>
 <hr/>
 
