@@ -9,6 +9,6 @@ public class Main {
         double myDoubleNum=5.25;
         char myLetter='N';
         boolean myBool=true;
-        String myText="Noushin";
+
     }
 }
