@@ -49,7 +49,7 @@ Whether you're a **complete beginner** or just brushing up on the fundamentals, 
 </a>
 <hr/>
 <hr/>
-<a href="https://youtu.be/_ATvT3w3Kwo">
+<a href="https://youtu.be/b3R86O10rjc">
   <img src="https://github.com/NoushinB/java_course/blob/master/src/main/resources/episods%20images/episod6.png?raw=true" width="500" alt="Episode 5"/>
 </a>
 <hr/>
