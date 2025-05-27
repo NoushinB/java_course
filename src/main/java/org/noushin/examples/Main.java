@@ -8,14 +8,9 @@ import org.noushin.examples.myapp.Car;
 public class Main {
     public static void main(String[] args) {
 
-        int myNum=6;
-        double myDoubleNum=5.25;
-        char myLetter='N';
-        boolean myBool=true;
-
-        Car myCar=new Car();
-        myCar.drive();
-        myCar.stop();
+        int a=5;
+        int b=3;
+        System.out.println("Addition"+(a+b));
 
     }
 }
