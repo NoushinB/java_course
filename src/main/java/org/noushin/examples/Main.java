@@ -1,16 +1,19 @@
 package org.noushin.examples;
-
-
-import org.noushin.examples.myapp.Car;
-
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 
-        int a=5;
-        int b=3;
-        System.out.println("Addition"+(a+b));
+        Scanner scanner=new Scanner(System.in);
+        System.out.println("Please enter your age: ");
+        int age=scanner.nextInt();
+        scanner.nextLine();
+
+        System.out.println("Please enter your name: ");
+        String name=scanner.nextLine();
+
+        System.out.println("Your age is: "+age);
+        System.out.println("Your name is: "+name);
+        scanner.close();
 
     }
 }
