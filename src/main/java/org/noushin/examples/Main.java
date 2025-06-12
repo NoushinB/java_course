@@ -2,18 +2,15 @@ package org.noushin.examples;
 import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
+        int x=18;
+        int y=18;
 
-        Scanner scanner=new Scanner(System.in);
-        System.out.println("Please enter your age: ");
-        int age=scanner.nextInt();
-        scanner.nextLine();
-
-        System.out.println("Please enter your name: ");
-        String name=scanner.nextLine();
-
-        System.out.println("Your age is: "+age);
-        System.out.println("Your name is: "+name);
-        scanner.close();
-
+        if (x>y){
+            System.out.println("x is greater than y");
+        } else if (x<y) {
+            System.out.println("x is smaller than y");
+        } else {
+            System.out.println("x is equal to y");
+        }
     }
 }
