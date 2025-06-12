@@ -82,7 +82,10 @@ Whether you're a **complete beginner** or just brushing up on the fundamentals, 
         <img src="https://github.com/NoushinB/java_course/blob/master/src/main/resources/episods%20images/episod10.png?raw=true" width="300" alt="Episode 10"/>
       </a>
     </td>
-    <td >
+    <td align="center">
+      <a href="https://youtu.be/r2PCUGYNdB8">
+        <img src="https://github.com/NoushinB/java_course/blob/master/src/main/resources/episods%20images/episod11.png?raw=true" width="300" alt="Episode 11"/>
+      </a>
     </td>
     <td >
      </td>
