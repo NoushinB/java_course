@@ -93,6 +93,16 @@ Whether you're a **complete beginner** or just brushing up on the fundamentals, 
       </a>
      </td>
   </tr>
+   </tr>
+   <tr>
+    <td align="center">
+      <a href="https://youtu.be/O1J_EisAS4w">
+        <img src="https://github.com/NoushinB/java_course/blob/master/src/main/resources/episods%20images/episod13.png?raw=true" width="300" alt="Episode 13"/>
+      </a>
+    </td>
+    <td ></td>
+    <td ></td>
+  </tr>
 </table>
 
 
